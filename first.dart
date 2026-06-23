@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // import 'dart:io';
 
 // // main() {
@@ -46,3 +47,6 @@ void main(){
   print(age.runtimeType);
   print((int.parse(age).runtimeType));
 }
+=======
+helloo
+>>>>>>> aeb30d73662eb0e6fae2b44f9306b9420b0c5408
